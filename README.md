@@ -4,13 +4,25 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Web Developer
 --------------------
 
-Passionate web developer with front-end and back-end development expertise, dedicated to creating seamless digital experiences that enhance online presence. Skilled in SEO, network optimization, DOM manipulation, and web accessibility. Adept at collaborating with stakeholders to align development with business goals, and managing the full website lifecycle—from strategy and design to deployment and continuous optimization.
+Passionate Senior Web Developer with front-end and back-end development expertise, dedicated to creating seamless digital experiences that enhance online presence. Skilled in SEO, network optimization, DOM manipulation, and web accessibility. Adept at collaborating with stakeholders to align development with business goals, and managing the full website lifecycle—from strategy and design to deployment and continuous optimization.
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [matheskrishna@gmail.com](mailto:matheskrishna@gmail.com)
 * 🚀  I'm currently working on [Kissflow AI Website](http://kissflow.ai/)
-* 🧠  I'm learning Next JS
-* 🤝  I'm open to collaborating on Hubspot CMS Website Projects
+* 🧠  I'm learning Next JS, AI-Driven Solutions.
+* 🤝  I'm open to collaborating on Hubspot CMS Website Projects.
+  
+### 👨‍💻 About Me:  
+💡 Passionate about merging technology and innovation to create meaningful digital experiences.  
+🌟 Frontend Developer at Kissflow.ai, leading the shift from traditional websites to AI-driven experiences, - The FIRST AI WEBSITE in the SAAS Industry.
+🔹 Developed Kissflow Monica, an AI-powered interactive page that allows users to inquire 
+   about Kissflow’s capabilities. The first AI voice-enabled page, it provides instant responses after users complete the sign-up form, enhancing engagement and customer experience.
+🤝 Leadership: Successfully managed and mentored a team of two, delivering high-impact projects on time.  
+🛠️ Built internal marketing tools to streamline workflows, enable real-time data insights, and boost efficiency.  
+📈 Optimized Core Web Vitals for Kissflow.com, improving performance, user experience, and search rankings.  
+🚀 Experienced in web accessibility, SEO, and performance optimization, ensuring scalable and high-performing applications.  
+💬 Enthusiastic about knowledge sharing, continuous learning, and collaborating with cross-functional teams.  
+⚡ Always exploring new web technologies to push boundaries and drive innovation for marketers.
 
 ### Skills
 
