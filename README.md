@@ -15,8 +15,7 @@ Passionate Senior Web Developer with front-end and back-end development expertis
 ### 👨‍💻 About Me:  
 💡 Passionate about merging technology and innovation to create meaningful digital experiences.  
 🌟 Frontend Developer at Kissflow.ai, leading the shift from traditional websites to AI-driven experiences, - The FIRST AI WEBSITE in the SAAS Industry.
-🔹 Developed Kissflow Monica, an AI-powered interactive page that allows users to inquire 
-   about Kissflow’s capabilities. The first AI voice-enabled page, it provides instant responses after users complete the sign-up form, enhancing engagement and customer experience.
+🔹 Developed Kissflow Monica, an AI-powered interactive page that allows users to inquire about Kissflow’s capabilities. It provides instant responses after users complete the sign-up form, enhancing engagement and customer experience.
 🤝 Leadership: Successfully managed and mentored a team of two, delivering high-impact projects on time.  
 🛠️ Built internal marketing tools to streamline workflows, enable real-time data insights, and boost efficiency.  
 📈 Optimized Core Web Vitals for Kissflow.com, improving performance, user experience, and search rankings.  
@@ -36,6 +35,4 @@ Passionate Senior Web Developer with front-end and back-end development expertis
 
 <p align="left"> <a href="https://www.github.com/Mathes-S/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/matheswaran-subramanian-b8622bab/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
 
-<a href="https://github.com/Mathes-S/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathes-S/&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
