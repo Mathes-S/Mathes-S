@@ -33,9 +33,9 @@ Passionate Senior Web Developer with front-end and back-end development expertis
 ### 🛠️ My Skills:  
 
 **🚀 Frontend Technologies:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, jQuery, HubL, Node.js, Serverless Architecture, MySQL  
-**📌 CMS Expertise:** HubSpot , WordPress
-**⚡ Optimization:** Core Web Vitals, SEO, Web Performance  
-**🛠️ Tools & Platforms:** Google Analytics, Tag Manager, Zoho Page Sense, Webeo, Airmeet, Zapier
+**📌 CMS Expertise:** HubSpot , WordPress.
+**⚡ Optimization:** Core Web Vitals, SEO, Web Performance. 
+**🛠️ Tools & Platforms:** Google Analytics, Tag Manager, Zoho Page Sense, Webeo, Airmeet, Zapier, Retell AI, AI Model like gpt-4, Gemini
 **🤝 Leadership:** Team Management, Process Innovation, Cross-functional Collaboration  
 
 ### Socials
