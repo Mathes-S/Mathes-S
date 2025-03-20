@@ -13,15 +13,15 @@ Passionate Senior Web Developer with front-end and back-end development expertis
 * 🤝  I'm open to collaborating on Hubspot CMS Website Projects.
   
 ### 👨‍💻 About Me:  
-💡 Passionate about merging technology and innovation to create meaningful digital experiences.  
-🌟 Frontend Developer at Kissflow.ai, leading the shift from traditional websites to AI-driven experiences, - The FIRST AI WEBSITE in the SAAS Industry.
-🔹 Developed Kissflow Monica, an AI-powered interactive page that allows users to inquire about Kissflow’s capabilities. It provides instant responses after users complete the sign-up form, enhancing engagement and customer experience.
-🤝 Leadership: Successfully managed and mentored a team of two, delivering high-impact projects on time.  
-🛠️ Built internal marketing tools to streamline workflows, enable real-time data insights, and boost efficiency.  
+💡 Passionate about merging technology and innovation to create meaningful digital experiences. 
+🔹 Developed **Kissflow Monica**, an AI-powered interactive page that allows users to inquire about Kissflow’s capabilities. The first AI voice-enabled page, it provides instant responses after users complete the sign-up form, enhancing engagement and customer experience.
+🌟 Frontend Developer at Kissflow.ai, pioneering the transition from traditional websites to AI-driven experiences.  
+🤝 Leadership: Successfully led and mentored a team of two, delivering high-impact projects efficiently.  
+🛠️ Built internal marketing tools to streamline workflows, provide real-time data insights, and enhance efficiency.  
 📈 Optimized Core Web Vitals for Kissflow.com, improving performance, user experience, and search rankings.  
 🚀 Experienced in web accessibility, SEO, and performance optimization, ensuring scalable and high-performing applications.  
 💬 Enthusiastic about knowledge sharing, continuous learning, and collaborating with cross-functional teams.  
-⚡ Always exploring new web technologies to push boundaries and drive innovation for marketers.
+⚡ Always exploring new web technologies to push boundaries and drive innovation.
 
 ### Skills
 
